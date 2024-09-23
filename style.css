@@ -1,0 +1,38 @@
+body{
+        background : linear-gradient(to right, #0066ff 0%, #ff0000 100%);
+}
+
+div.partie {
+        border : 3px solid black ;
+        border-radius: 5px 5px 30px 5px;
+        margin : 20px 25px ;
+        padding : 5px;
+
+
+}
+div.partie h1 {
+        border-radius: 5px 5px 20px 5px;
+        background: linear-gradient(to bottom left, #000099 0%, #ff0000 100%);
+        margin-top: 0px
+}
+p{padding:5px;
+}
+
+div.partie dt{
+  font-weight: bold;
+  color:#660066;
+}
+
+.icone {  border-radius: 10px;
+  height: 80px;
+}
+
+#identite{
+        height: 150px;
+        display : flex
+        align-items : center;
+}
+
+table{width :100%
+
+}
